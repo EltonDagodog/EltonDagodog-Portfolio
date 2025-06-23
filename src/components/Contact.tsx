@@ -30,7 +30,7 @@ const Contact = () => {
       icon: Linkedin,
       label: 'LinkedIn',
       value: 'Elton Dagodog',
-      href: 'https://linkedin.com/in/eltonromaresdagodog',
+      href: 'https://linkedin.com/in/Elton Dagodog',
       color: 'from-blue-500 to-blue-600'
     },
     {
